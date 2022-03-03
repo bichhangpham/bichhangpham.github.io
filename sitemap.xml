@@ -2,19 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://bichhangpham.github.io/posts/university/intro-to-cpp/</loc>
+    <lastmod>2022-03-03T12:15:05+11:00</lastmod>
+  </url><url>
+    <loc>https://bichhangpham.github.io/</loc>
+    <lastmod>2022-03-03T12:15:05+11:00</lastmod>
+  </url><url>
+    <loc>https://bichhangpham.github.io/categories/</loc>
+    <lastmod>2022-03-03T12:15:05+11:00</lastmod>
+  </url><url>
+    <loc>https://bichhangpham.github.io/tags/cpp/</loc>
+    <lastmod>2022-03-03T12:15:05+11:00</lastmod>
+  </url><url>
+    <loc>https://bichhangpham.github.io/tags/learning/</loc>
+    <lastmod>2022-03-03T12:15:05+11:00</lastmod>
+  </url><url>
+    <loc>https://bichhangpham.github.io/posts/</loc>
+    <lastmod>2022-03-03T12:15:05+11:00</lastmod>
+  </url><url>
+    <loc>https://bichhangpham.github.io/tags/</loc>
+    <lastmod>2022-03-03T12:15:05+11:00</lastmod>
+  </url><url>
+    <loc>https://bichhangpham.github.io/categories/university/</loc>
+    <lastmod>2022-03-03T12:15:05+11:00</lastmod>
+  </url><url>
     <loc>https://bichhangpham.github.io/about/</loc>
     <lastmod>2022-03-02T17:59:34+11:00</lastmod>
   </url><url>
     <loc>https://bichhangpham.github.io/archives/</loc>
   </url><url>
-    <loc>https://bichhangpham.github.io/</loc>
-  </url><url>
-    <loc>https://bichhangpham.github.io/categories/</loc>
-  </url><url>
     <loc>https://bichhangpham.github.io/search/</loc>
   </url><url>
     <loc>https://bichhangpham.github.io/series/</loc>
-  </url><url>
-    <loc>https://bichhangpham.github.io/tags/</loc>
   </url>
 </urlset>

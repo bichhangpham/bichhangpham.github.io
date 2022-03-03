@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Bich Pham</title>
-    <link>https://bichhangpham.github.io/</link>
-    <description>Recent content on Bich Pham</description>
+    <title>university on Bich Pham</title>
+    <link>https://bichhangpham.github.io/categories/university/</link>
+    <description>Recent content in university on Bich Pham</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Bich Pham 2022</copyright>
-    <lastBuildDate>Thu, 03 Mar 2022 12:15:05 +1100</lastBuildDate><atom:link href="https://bichhangpham.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 Mar 2022 12:15:05 +1100</lastBuildDate><atom:link href="https://bichhangpham.github.io/categories/university/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Intro to Cpp</title>
       <link>https://bichhangpham.github.io/posts/university/intro-to-cpp/</link>
@@ -17,17 +17,6 @@
       <description>Below are programs to summarise basics of C++ which I am learning in my Data Structures &amp;amp; Algorithms class.
 Program 1: Namespace, printout /* Program 1: Namespace, printing out */ #include &amp;lt;iostream&amp;gt;using namespace std;  int main() {  int currentMillenium = 2000 ;   cout &amp;lt;&amp;lt; &amp;#34;The current millenium is: &amp;#34; &amp;lt;&amp;lt; currentMillenium &amp;lt;&amp;lt; endl;  return 0; } Note the return value refers to the program’s exit code, which is 0 by default.</description>
     </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://bichhangpham.github.io/about/</link>
-      <pubDate>Wed, 02 Mar 2022 17:59:34 +1100</pubDate>
-      
-      <guid>https://bichhangpham.github.io/about/</guid>
-      <description></description>
-    </item>
-    
-    
     
   </channel>
 </rss>
